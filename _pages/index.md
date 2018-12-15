@@ -5,3 +5,5 @@ author_profile: true
 classes: wide
 permalink: /
 ---
+
+Hi universe, this is Xiaoxiao Lei writing in the Temple of Time.
