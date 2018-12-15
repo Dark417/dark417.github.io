@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 category: Machine Learning
 excerpt: "This post is a translation for one of Wei's posts in his machine learning notes."
-title: Generative Learning Algorithm in Chinese
+title: Discriminative Learning Algorithm / 分类学习算法
 ---
 Please note this post is a study note translated to Chinese by me. Click [here](https://wei2624.github.io/MachineLearning/sv_discriminative_model/) to see the original English version in Wei's homepage.
 
