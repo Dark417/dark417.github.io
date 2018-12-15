@@ -10,8 +10,8 @@ main:
     url: https://dark417.github.io/blog/
   - title: "MachineLearning"
     url: https://wei2624.github.io/categories/
-  - title: "Tags"
-    url: https://wei2624.github.io/tags/
+  # - title: "Tags"
+  #   url: https://wei2624.github.io/tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
