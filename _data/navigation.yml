@@ -2,14 +2,14 @@
 main:
   - title: "Home"
     url: https://dark417.github.io/
-  - title: "Careeer"
-    url: https://wei2624.github.io/CV/
-  - title: "Research"
-    url: https://wei2624.github.io/research/
+  # - title: "Careeer"
+  #   url: https://wei2624.github.io/CV/
+  # - title: "Research"
+  #   url: https://wei2624.github.io/research/
   - title: "Blog"
     url: https://dark417.github.io/blog/
-  - title: "MachineLearning"
-    url: https://wei2624.github.io/categories/
+  # - title: "MachineLearning"
+  #   url: https://wei2624.github.io/categories/
   # - title: "Tags"
   #   url: https://wei2624.github.io/tags/
   # - title: "Sample Collections"
