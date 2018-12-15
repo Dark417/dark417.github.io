@@ -11,6 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Dark's Mind Palace"
 title_separator          : "-"
+
 name                     : "Xiaoxiao Lei"
 description              : "Explore the Infinity"
 url                      : "https://dark417.github.io"
@@ -94,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoxiao Lei"
-  avatar           : #"/assets/images/wei_square_github.jpg"
+  avatar           : "/assets/images/kb1.jpg"
   bio              : ""
   location         : #"New York"
   email            : #"wz2363@columbia.edu"
