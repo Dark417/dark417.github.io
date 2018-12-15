@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei's Homepage"
+title                    : "Dark's Mind Palace"
 title_separator          : "-"
-name                     : "Wei Zhang"
+name                     : "Xiaoxiao Lei"
 description              : "An amazing website."
 url                      : "https://wei2624.github.io"
 baseurl                  : #"https://wei2624.github.io"
