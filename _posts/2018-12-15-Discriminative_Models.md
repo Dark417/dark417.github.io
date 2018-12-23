@@ -1,9 +1,8 @@
 ---
-published: true
-layout: post
+layout: single
 mathjax: true
-toc: true
-toc_sticky: true
+qr: interesting_probability_questions.png
+title: Interesting Probability Questions
 category: Machine Learning
 excerpt: "This post is a translation for one of Wei's posts in his machine learning notes."
 title: Discriminative Learning Algorithm / 分类学习算法
