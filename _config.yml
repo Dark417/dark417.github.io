@@ -112,18 +112,19 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/leixiaoxiao1"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Dark417"
-    # - label: "WeChat"
-    #   icon: "fab fa-weixin"
-      # url: "/images/WechatID.jpeg"
+
+    - label: "WeChat"
+      icon: "fab fa-weixin"
+      url: "/images/DarkWechat.jpeg"
     # - label: "Zhihu"
     #   icon: "fab fa-zhihu"
     #   url: "/images/zhihu_qr.jpeg"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/xiaoxiaolei/"
 
 # Site Footer
 footer:
