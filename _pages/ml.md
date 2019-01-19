@@ -11,7 +11,7 @@ permalink: /MachineLearning/
 	<li>
       <a href="#2018"> 
       	<!-- point to section id = 2018 -->
-        <strong>2019</strong> <span class="taxonomy__count">1</span>
+        <strong>2019</strong> <span class="taxonomy__count">2</span>
       </a>
     </li>
     <li>
