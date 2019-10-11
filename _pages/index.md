@@ -6,7 +6,7 @@ classes: wide
 permalink: /
 ---
 
-I am Xiaoxiao Lei and I live in Beijing, China. Majored in the English learning atmosphere in Beijing International Studies University in undergraduate, I am now teaching TOEFL & SAT at VIP, New Oriental, HQ., Beijing. New Oriental is the largest education corporation in China. My passion resides in using AI to facilitate the learners' English learning. This Blog shares AI learning materials and interesting projects. I would like to discuss AI topic with AI learners.
+I am Xiaoxiao Lei and I live in Beijing, China. I am currently working in tech company that provides fund management platform for fund managers. My passion resides in using AI to facilitate the learners' English learning. This Blog shares AI learning materials and interesting projects. I would like to discuss AI topic with AI learners.
 
 ### My AI Learning Experience
 I am currently learning AI from vast available online resources. I have taken Machine Learning course on Coursera and first two courses in the series at deeplearning.ai. I am learning CS 229 to get a deeper understanding of the algorithms. I will continue to learn AI and build some interesting applications that can improve people's lives.
