@@ -11,7 +11,7 @@ I am currently studying for Master of Computer Science and Engineering in Univer
 
 ### Kobe
 Kobe has been a mentor and friend to me, though he didn't know me. My impression of him stayed in the reverse dunk on KG when he played against him. The image remains. The name is 小飞侠. 
-(https://dark417.github.com/dark417.github.io/images/kbreversedunk.jpg)
+(https://github.com/Dark417/dark417.github.io/blob/master/images/kbreversedunk.jpg)
 
 
 
