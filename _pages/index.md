@@ -6,7 +6,14 @@ classes: wide
 permalink: /
 ---
 
-I am Xiaoxiao Lei and I live in Beijing, China. I am currently working in tech company that provides fund management platform for fund managers. I previously worked in New Oriental as a teacher & planner and then transfered to work as developer. My passion resides in AI. This Blog shares AI learning materials and interesting projects. I would like to discuss AI topic with AI learners.
+Yahoo!
+I am currently studying for Master of Computer Science and Engineering in University at Buffalo, State University of New York, Buffalo, New York, USA. 
+
+### Kobe
+Kobe has been a mentor and friend to me, though he didn't know me. My impression of him stayed in the reverse dunk on KG when he played against him. The image remains. The name is 小飞侠. 
+(https://dark417.github.com/dark417.github.io/images/kbreversedunk.jpg)
+
+
 
 ### My AI Learning Experience
 I am currently learning AI from vast available online resources. I have taken Machine Learning course on Coursera and first two courses in the series at deeplearning.ai. I am learning CS 229 to get a deeper understanding of the algorithms. I will continue to learn AI and build some interesting applications that can improve people's lives.
