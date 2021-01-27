@@ -12,7 +12,7 @@ permalink: /
 I was born in a small village in Shanxi province, China. My family moved to Beijing when I was 9. Since primary school, I have been fascinated and entangled with computer programming and robot. I had participated in robot games from primary school to high shool with multiple rewards, including a Tsinghua National Cup Championship. Programming has taught me procedural and analytical thinking, along with problem solving skills.
 
 ## Choice
-Although my choice of college major took a detour as English, I have managed to learn computer science knowledge and practice programming by myself consistently. I also worked as a software developer in a start-up company, in which I developed a [chatbot](https://dark417.github.io/) software in 2017. In 2019, I decided to seriously pursue a career in computer programming and applied for American universities. Then, with multiple offers in hands, I made a choice to pursue a Master of Computer Science and Engineering degree in University at Buffalo.
+Although my choice of college major took a detour as English, I have managed to learn computer science knowledge and practice programming by myself consistently. I also worked as a software developer in a start-up company, in which I developed a [chatbot](https://dark417.github.io/story/chatbot/) software in 2017. In 2019, I decided to seriously pursue a career in computer programming and applied for American universities. Then, with multiple offers in hands, I made a choice to pursue a Master of Computer Science and Engineering degree in University at Buffalo.
 
 ## Future
 
