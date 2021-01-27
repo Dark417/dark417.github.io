@@ -2,10 +2,6 @@
 main:
   - title: "Home"
     url: https://dark417.github.io/
-    
-  # - title: "Careeer"
-  #   url: https://wei2624.github.io/CV/
-
 
   - title: "Blog"
     url: https://dark417.github.io/blog/
