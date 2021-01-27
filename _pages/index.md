@@ -2,12 +2,12 @@
 layout: home
 title: About
 author_profile: true
-classes: wide
+
 permalink: /
 ---
 
 
-# About
+
 ## Early Age
 I was born in a small village in Shanxi province, China. My family moved to Beijing when I was 9. Since primary school, I have been fascinated and entangled with computer programming and robot. I had participated in robot games from primary school to high shool with multiple rewards, including a Tsinghua National Cup Championship. Programming has taught me procedural and analytical thinking, along with problem solving skills.
 

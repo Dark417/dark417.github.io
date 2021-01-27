@@ -13,6 +13,9 @@ title: Machine Learning Notes
 author_profile: false
 sidebar:
   nav: "MachineLearning"
+
+permalink: /blog/Machine Learning Notes/
+
 ---
 
 Note: viewing this page on mobile phone might hurt your experience.
