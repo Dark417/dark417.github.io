@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dark's Mind Palace"
+title                    : "Adventures Continue"
 title_separator          : "-"
 
 name                     : "Xiaoxiao Lei"
@@ -102,13 +102,14 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:dark417@163.com
+      url: mailto:xlei@buffalo.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://dark417.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Dark_Infi"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/Dark_Infi"
+
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/leixiaoxiao1"
