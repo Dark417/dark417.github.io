@@ -5,7 +5,10 @@ toc: true
 toc_sticky: true
 category: Machine Learning
 tags: [notes]
+excerpt:
 qr: machine_learning_notes.png
+tags: [memory,pointer]
+
 title: Machine Learning Notes
 author_profile: false
 sidebar:

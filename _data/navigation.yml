@@ -1,12 +1,11 @@
 # main links
-main:
+Main:
   - title: "Home"
     url: https://dark417.github.io/
     
   # - title: "Careeer"
   #   url: https://wei2624.github.io/CV/
-  # - title: "Research"
-  #   url: https://wei2624.github.io/research/
+
 
   - title: "Blog"
     url: https://dark417.github.io/blog/
@@ -14,42 +13,34 @@ main:
   - title: "Machine Learning"
     url: https://dark417.github.io/MachineLearning/
 
-  # - title: "MachineLearning"
-  #   url: https://wei2624.github.io/categories/
-  # - title: "Tags"
-  #   url: https://wei2624.github.io/tags/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Story"
+    url: https://dark417.github.io/story/
 
 
-MachineLearning:
-  - title: Supervised Learning
+
+
+Project:
+  - title: Project
     children:
-      - title: "Discriminative Algorithm"
-        url: /MachineLearning/sv_discriminative_model/
-      - title: "Generative Algorithm"
-        url: /MachineLearning/sv_generative_model/
-      - title: "Support Vector Machine"
-        url: /MachineLearning/sv_svm/
-      - title: "Bias and Variance Tradeoff"
-        url: /MachineLearning/sv_bias_variance_tradeoff/
-      - title: "Learning Theory"
-        url: /MachineLearning/sv_learning_theory/
-      - title: "Regularization and Model Selection"
-        url: /MachineLearning/sv_regularization_model_selection/
-      - title: "Online Learning and Perceptron"
-        url: /MachineLearning/sv_online_learning_perceptron/
-  - title: Deep Learning
-    children: 
-      - title: "Neural Networks"
-        url: /MachineLearning/dl_neural_network/
-      - title: "Backpropagation"
-        url: /MachineLearning/dl_propagtion/
-  - title: Unsupervised Learning
-    children: 
-      - title: "K-means Clutering"
-        url: /MachineLearning/usv_kmeans/
-      - title: "EM Algorithm"
-        url: /MachineLearning/usv_em/
+      - title: "Chatbot"
+        # url: /MachineLearning/sv_discriminative_model/
+      - title: "Don't Buy Me plug-in"
+        # url: /MachineLearning/sv_generative_model/
+
+  - title: cs 
+    children:
+      - title: "Leetcode"
+        # url: /MachineLearning/sv_discriminative_model/
+      # - title: "Generative Algorithm"
+        # url: /MachineLearning/sv_generative_model/
+
+Story:
+  - title: Story
+    children:
+      - title: "Hiking in Snow"
+        # url: /MachineLearning/sv_discriminative_model/
+
+      # - title: "Generative Algorithm"
+      #   url: /MachineLearning/sv_generative_model/
+
+
