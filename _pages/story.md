@@ -1,6 +1,6 @@
 ---
-layout: posts
+layout: story
 title: Story
 author_profile: true
-permalink: /_story/
+permalink: /story/
 ---

@@ -2,5 +2,5 @@
 layout: posts
 title: Blog
 author_profile: true
-permalink: /_blog/
+permalink: /blog/
 ---
