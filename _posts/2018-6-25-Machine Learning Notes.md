@@ -14,7 +14,7 @@ author_profile: false
 sidebar:
   nav: "MachineLearning"
 
-permalink: /blog/Machine Learning Notes/
+
 
 ---
 
