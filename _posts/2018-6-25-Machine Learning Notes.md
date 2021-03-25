@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 mathjax: true
 toc: true
@@ -109,3 +109,4 @@ Please let me know. You can email me or directly comment below.
 **You share it.**
 
 **Note: You can share any post to social network at the bottom.**
+ -->
